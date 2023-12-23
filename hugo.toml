@@ -4,7 +4,6 @@ publishDir="docs"
 theme = 'ananke'
 canonifyurls = true
 title = '生命在于运动'
-canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
