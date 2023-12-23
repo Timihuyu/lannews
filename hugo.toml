@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://timihuyu.github.io/lannews/'
 languageCode = 'en-us'
 publishDir="docs"
 theme = 'ananke'
+canonifyurls = true
 title = '生命在于运动'
 canonifyurls = true
 [markup]
